@@ -2,7 +2,7 @@
 
 ## ESoWC 2019 --- Data-driven feature selection towards improving forecast-based prediction of wildfire hazard
 
-__Team:__ [@mariajoaosousa](https://github.com/mariajoaosousa), [@eduardogfma](https://github.com/eduardogfma), [@ricardomaia300](https://github.com/ricardomaia300)
+__Team:__ [@mariajoaosousa](https://github.com/mariajoaosousa), [@eduardogfma](https://github.com/eduardogfma)
 
 ### Summary
 This project proposes the application of machine learning techniques for the development of prediction models of extreme fire events, based on the knowledge discovery in databases (KDD) framework. This work aims to devise data-driven feature selection approaches adequate for the calibration of the Canadian Forest Fire Weather Index system, to provide a deeper understanding of the datasets open-sourced by ECMWF / Copernicus.
